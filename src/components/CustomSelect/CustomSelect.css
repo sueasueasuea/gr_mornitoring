@@ -1,0 +1,6 @@
+div {
+    display: flex;
+    flex-direction : column;
+    text-align: left;
+    margin-right: 10px;
+}
